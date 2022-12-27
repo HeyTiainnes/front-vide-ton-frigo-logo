@@ -1,0 +1,13 @@
+.btn-demarrer {
+  background-color: #6ab547;
+  margin: auto;
+  margin-top: 40px;
+  display: block;
+  z-index: 2;
+}
+.btn {
+  color: #fff;
+}
+.btn-green:hover {
+  background-color: #f0e990;
+}
